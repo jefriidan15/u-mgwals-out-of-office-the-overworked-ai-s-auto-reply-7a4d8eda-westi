@@ -1,0 +1,1 @@
+{"description":"Out of Office: The Overworked AI's Auto-Reply — one-line entry for make.fun","license":"MIT","main":"main.ts","name":"out-of-office-the-overworked-ai-s-auto-reply","private":false,"scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
